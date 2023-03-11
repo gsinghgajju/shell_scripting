@@ -7,3 +7,5 @@ d='date +%m-%Y'
  
 echo $date
 echo "$(who | wc -l)"
+
+echo "testing"
